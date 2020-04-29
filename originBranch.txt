@@ -1,0 +1,2 @@
+这是远程分支的一个文件
+originBranch.txt
